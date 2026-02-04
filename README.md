@@ -1,4 +1,6 @@
 # Veille-Symfony
 
 
-symfony check:security => vérifie si un budle a des vulnérabilités connues
+=> vérifie si un budle a des vulnérabilités connues<br/>
+```phpsymfony check:security```
+
